@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: chimdi247/bankapp:v10
+        image: chimdi247/bankapp:v11
         resources:
           requests:
             memory: "256Mi"
